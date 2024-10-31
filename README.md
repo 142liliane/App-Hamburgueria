@@ -34,7 +34,7 @@
 ## Telas do Aplicativo 3
 > **Tela Principal:**
 > Na tela principal, o usuário pode inserir seu login e entrar no carápio, ou se não tiver se cadastrado, aperte em se cadastrar.
-> **tela de cadastro:**
+> **Tela de cadastro:**
 >  Na tela de cadastro, o usuário deverá inserir: nome, e-mail, senha e telefone. que salva-rá para usar na tela principal como login.
 > **Tela do cardápio:**
 > Na tela do cardápio, o usuário poderá ver as opções de refeição e entrará no whatsApp do atentente para fazer o pedido.
